@@ -2,7 +2,7 @@
 following traversy media  https://www.youtube.com/watch?v=x_n2FGNsm0o&amp;t=138s
 
 # About this app
-this is first landing page clone after learn html amd css
+this is Second  landing page clone after learn html amd css
 
 # Focus 
  try and learn grid and flex Display 
